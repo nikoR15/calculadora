@@ -1,0 +1,10 @@
+Calculadora
+El usuario nos pide que hagamos una calculadora con las 5 operaciones básicas (suma, resta, multiplicación, porcentaje), para realizar esta calculadora utilizamos JavaScript, HTML, Css esta son las herramientas que utilizamos para realizar la calculadora que nos pide el cliente, el cliente nos pide que la calculadora no tenga botones.
+Problemas a la hora de desarrollar
+En esta sección se vera alguno de los problemas que tuvimos a la hora de desarrollar la calculadora que nos pidió el cliente.
+1.	 A la hora de ingresar el primer número, darle el signo y el otro numero se mostraba en la casilla del resultado el primer numero 
+2.	Otro problema que tuvimos es que el usuario podía modificar el resultado y podía ingresar letras 
+3.	Otro problema que tuvimos que cuando el usuario ya ingresaba la operación no le daba el resultado
+4.	
+Solución al problema
+Después de analizar los problemas que tuvimos con la calculadora, nos colocamos a investigar y verificar si lo que teníamos estaba bien y/o de manera correcta de esta manera pudimos sacar el producto del cliente adelante, utilizamos varios métodos para organizar la documentación o este documente de manera que el usuario tenga un mini registro de lo que realizamos en la aplicación, fue un método fácil y estratégico, para realizar trabajo en equipo
